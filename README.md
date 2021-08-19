@@ -2,4 +2,4 @@
 
 Layout of the interior design layout with animation
 
-https://alexandermihalich.github.io/layout-Athena/
+https://alexandermihalich.github.io/layout-Athena
